@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the analysis pipeline."
+title: "Parkinson disease and white matter hyperintensities analysis code"
+version: 1.0.0
+date-released: 2026-10-07
+type: software
+authors:
+  - family-names: Cheng
+    given-names: Peng
+    orcid: "https://orcid.org/0000-0003-1368-490X"
+repository-code: "https://github.com/sducp-88/parkinsons-wmh-ukbiobank"
+license: MIT
+keywords:
+  - Parkinson disease
+  - white matter hyperintensities
+  - UK Biobank
+  - overlap weighting
